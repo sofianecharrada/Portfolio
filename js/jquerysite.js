@@ -15,6 +15,7 @@ ScrollReveal().reveal('.content',{ delay:'600',easing: 'ease-in-out', distance:'
 ScrollReveal().reveal('#photomontage',{ delay:'600',easing: 'ease-in-out', distance:'20px', origin:'right',duration:'1600',  });
 ScrollReveal().reveal('#video',{ delay:'600',easing: 'ease-in-out', distance:'20px', origin:'right',duration:'1600',  });
 ScrollReveal().reveal('#montage',{ delay:'600',easing: 'ease-in-out', distance:'20px', origin:'left',duration:'1600',  });
+ScrollReveal().reveal('#descvid',{ delay:'600',easing: 'ease-in-out', distance:'20px', origin:'left',duration:'1600',  });
 
 
     // Select all links with hashes

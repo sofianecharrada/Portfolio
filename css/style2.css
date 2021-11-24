@@ -3,7 +3,6 @@ html, body{
 	padding:0px;
 	margin:0px;
 	background-color:white;
-	font-family: "Gears Of Peace";
   overflow-x: hidden;
 
 
@@ -35,6 +34,14 @@ margin-top: 30px;
 font-size: 2.5rem;
 text-align: center;
 color:white;
+
+}
+
+.blase img{
+
+	height: 150px;
+	width:auto;
+
 
 }
 
@@ -337,6 +344,10 @@ h2 {
 }
 
 
+
+
+
+
 /*------------------ VIDEO ----------------------------*/
 
 
@@ -346,14 +357,33 @@ h2 {
   justify-content: center;
   padding:10px;
   margin-bottom: 100px;
+  margin-top: 100px;
+
+}
+
+#descvid h2, #descvid p{
+
+  clear:both;
+  font-family: "Righteous";
+  text-align: center;
 
 }
 
 #video video{
 
-  width:600px;
+  width:900px;
   height:auto;
 }
+
+#descvid{
+
+    margin-bottom: 100px;
+
+
+}
+
+
+
 
 
 
@@ -410,6 +440,16 @@ section{
 
   font-size:1.5rem;
 }
+
+
+#montage{
+
+
+  margin-top:0px;
+}
+
+
+
 
 
 
